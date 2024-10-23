@@ -22,3 +22,4 @@ function mergeSort(array) {
 }
 
 array = [3, 5, 1, 6, 9, 8, 2];
+mergeSort(array)
